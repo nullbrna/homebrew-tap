@@ -1,8 +1,8 @@
 class Envcmd < Formula
     desc "Environment-specific and configurable commands"
     homepage "https://github.com/nullbrna/envcmd"
-    url "https://github.com/nullbrna/envcmd/releases/download/v1.1.0/envcmd_v1.1.0_darwin_arm64.tar.gz"
-    sha256 "adec17cce05444bd3c08fe2818ac0580c9b50026250b48d44d10aea9a62ebb3b"
+    url "https://github.com/nullbrna/envcmd/releases/download/v1.1.1/envcmd_v1.1.1_darwin_arm64.tar.gz"
+    sha256 "17562c1128153c26bfee302113480197d303d19707b9b478ecac3d07c6fac9ad"
     license "MIT"
 
     depends_on arch: :arm64
