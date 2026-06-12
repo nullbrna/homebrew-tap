@@ -14,7 +14,7 @@ The repository being named `homebrew-*` allows for tap installation.
 brew tap nullbrna/tap
 brew install envcmd
 
-# Or, to avoid the tap.
+# The tap command can be skipped.
 brew install nullbrna/tap/envcmd
 ```
 
