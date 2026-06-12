@@ -11,10 +11,6 @@ hash of said program.
 The repository being named `homebrew-*` allows for tap installation.
 
 ```sh
-brew tap nullbrna/tap
-brew install envcmd
-
-# The tap command can be skipped.
 brew install nullbrna/tap/envcmd
 ```
 
@@ -24,5 +20,5 @@ To update the installations, run the following:
 
 ```sh
 brew update && brew upgrade
-brew reinstall envcmd
+brew reinstall nullbrna/tap/envcmd
 ```
