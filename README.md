@@ -8,15 +8,11 @@ hash of said program.
 
 ## Installation
 
-The repository being named `homebrew-*` allows for tap installation.
-
 ```sh
 brew install nullbrna/tap/envcmd
 ```
 
 ## Updating
-
-To update the installations, run the following:
 
 ```sh
 brew update && brew upgrade
