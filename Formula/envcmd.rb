@@ -3,10 +3,8 @@ class Envcmd < Formula
     homepage "https://github.com/nullbrna/envcmd"
     license "MIT"
 
-    # Pointed to latest release build. Only the tag needs updating.
-    url "https://github.com/nullbrna/envcmd/releases/download/v1.1.5/envcmd_v1.1.5_darwin_arm64.tar.gz"
-    # Generated at build-time to verify binary. See release workflow.
-    sha256 "00691f8fc089757e0803a165db49bfda6d6739f37cb5447c4493d251bd91e1d5"
+    url "https://github.com/nullbrna/envcmd/releases/download/v1.2.0/envcmd_v1.2.0_darwin_arm64.tar.gz"
+    sha256 "bf485486e039420a148eeabf8710b27aad64cb7fe23371b73aa692f9f90d5d13"
 
     depends_on arch: :arm64
 
